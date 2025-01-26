@@ -19,6 +19,13 @@ This repository replicates a research paper focusing on **Lempel-Ziv Compression
 3. **Results Visualization**:
    - The complexity metric for each window is plotted, highlighting compressible (low complexity) and random (high complexity) regions.
 
+
+---
+
+## Worflow of the project 
+
+![Compression Results Graph]()
+
 ---
 
 ## Results
@@ -45,4 +52,5 @@ This repository replicates a research paper focusing on **Lempel-Ziv Compression
 Lempel-Ziv is a lossless data compression algorithm that identifies and encodes unique patterns in sequences. It is widely used for analyzing compressibility and has practical applications in genomics, where it helps identify patterns in DNA regions efficiently.
 
 ---
+
 
