@@ -24,7 +24,7 @@ This repository replicates a research paper focusing on **Lempel-Ziv Compression
 
 ## Worflow of the project 
 
-![Compression Results Graph]()
+![workflow of code](https://github.com/oms0401/research-paper-implementation/blob/2ad5b0df616ed6e514e2152206e3cf93fdc80133/Screenshot%202025-01-26%20203401.png)
 
 ---
 
