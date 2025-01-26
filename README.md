@@ -27,7 +27,7 @@ This repository replicates a research paper focusing on **Lempel-Ziv Compression
 - Low peaks indicate easily compressible, repetitive regions.
 - High peaks represent random, complex regions.
 
-![Compression Results Graph](C:\Users\oms04\Desktop\Om Resume Project\research paper implementation\lz_complexity_dna_{res}.png)
+![Compression Results Graph](https://github.com/oms0401/research-paper-implementation/blob/97983d4d0351201fab82d62fc969cc9b802d2adc/lz_complexity_dna_full.png)
 
 ---
 
